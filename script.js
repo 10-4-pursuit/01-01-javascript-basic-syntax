@@ -6,7 +6,6 @@ const anotherNumber = 7;
 const sum = number + anotherNumber;
 console.log(sum);
 
-const name = `Alice`;
 if(name === `Alice`) {
     console.log(`Hello Alice!`);
 } else {
