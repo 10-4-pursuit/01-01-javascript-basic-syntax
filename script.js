@@ -11,7 +11,11 @@ console.log(number + anotherNumber)
 
 //3. Write an 'if-else' statement to check if a variable `name` is equal to 'Alice'. If true, display 'Hello Alice!', otherwise display 'You are not Alice'.
 
+let name = 'Alice';
+// let name = 'Bob'; 
+
 if (name === 'Alice'){
     console.log(`Hello ${name}`);
 }else 
 console.log('You are not Alice')
+
